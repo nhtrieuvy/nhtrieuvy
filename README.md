@@ -7,6 +7,8 @@ Welcome to my GitHub profile!
 
 ️🎯 Goal-driven backend developer focused on product quality.
 
+---
+
 ## 🚀 Tech Stack
 
 ### 🔹 Programming Languages
@@ -29,14 +31,20 @@ Welcome to my GitHub profile!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
 </p>
 
+---
+
 ## 📌 Featured Projects
 - [PlanPalApp](https://github.com/nhtrieuvy/PlanPalApp) – Personal and Group Trip Planning & Management App (Django + Flutter).
 - [E-commerce Web](https://github.com/nhtrieuvy/SpringEcommerceApp.git) – A web-based system for streamlined online shopping (SpringMVC + ReactJS).
 - [EventGoApp](https://github.com/trvannhanh/eventgo-system) – Online Event Management & Ticket Booking Application (Django + React Native).
 
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nhtrieuvy&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhtrieuvy&layout=compact&theme=tokyonight)
+
+---
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -52,6 +60,8 @@ Welcome to my GitHub profile!
     nhtrieuvy2004@gmail.com
   </a>
 </p>
+
+---
 
 Thank you for your visit!
 
