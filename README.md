@@ -1,4 +1,4 @@
-# Hi, I'm Triệu Vỹ 👋
+# Hi, I'm Trieu Vy 👋
 Welcome to my GitHub profile!
 
 📚 I am a 3rd year student majoring in information technology.
