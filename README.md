@@ -76,5 +76,5 @@ Welcome to my GitHub profile!
 Thank you for your visit!
 
 ---
-View ![Visitor Count](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=nhtrieuvy&style=for-the-badge)
 
