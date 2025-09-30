@@ -3,9 +3,9 @@ Welcome to my GitHub profile!
 
 📚 I am a 3rd year student majoring in information technology.
 
-👨‍💻 Currently learning about Django, Spring Boot, Flutter, React, web and app programming.
+👨‍💻 Currently studying AI in parallel with web and app development.
 
-️🎯 Goal-driven backend developer focused on product quality.
+️🎯 Goal-driven backend developer focused on integrating AI to deliver high-quality products..
 
 ---
 
