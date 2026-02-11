@@ -51,17 +51,10 @@ Welcome to my GitHub profile!
 ---
 
 ## 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img height="170" src="https://github-readme-stats-xi-eight-51.vercel.app/api?username=nhtrieuvy&show_icons=true&theme=tokyonight"/>
-    </td>
-    <td width="40"></td>
-    <td>
-      <img height="170" src="https://github-readme-stats-xi-eight-51.vercel.app/api/top-langs/?username=nhtrieuvy&layout=compact&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-xi-eight-51.vercel.app/api?username=nhtrieuvy&show_icons=true&theme=tokyonight" hspace ="50"/>
+  <img height="170" src="https://github-readme-stats-xi-eight-51.vercel.app/api/top-langs/?username=nhtrieuvy&layout=compact&theme=tokyonight" hspace="50"/>
+</p>
 
 ---
 
