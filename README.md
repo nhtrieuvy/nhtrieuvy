@@ -52,7 +52,7 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
 
   <img height="170" src="https://github-readme-stats-xi-eight-51.vercel.app/api?username=nhtrieuvy&show_icons=true&theme=tokyonight" />
   
