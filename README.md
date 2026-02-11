@@ -1,7 +1,7 @@
 # Hi, I'm Trieu Vy 👋
 Welcome to my GitHub profile!
 
-📚 I am a 3rd year student majoring in information technology.
+📚 I am a final-year student majoring in information technology.
 
 👨‍💻 Currently studying AI in parallel with web and app development.
 
