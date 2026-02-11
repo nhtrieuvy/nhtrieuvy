@@ -52,8 +52,8 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats-xi-eight-51.vercel.app/api?username=nhtrieuvy&show_icons=true&theme=tokyonight" hspace ="50"/>
-  <img height="170" src="https://github-readme-stats-xi-eight-51.vercel.app/api/top-langs/?username=nhtrieuvy&layout=compact&theme=tokyonight" hspace="50"/>
+  <img height="170" src="https://github-readme-stats-xi-eight-51.vercel.app/api?username=nhtrieuvy&show_icons=true&theme=tokyonight" hspace ="30"/>
+  <img height="170" src="https://github-readme-stats-xi-eight-51.vercel.app/api/top-langs/?username=nhtrieuvy&layout=compact&theme=tokyonight" hspace="30"/>
 </p>
 
 ---
